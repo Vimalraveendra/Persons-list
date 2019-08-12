@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Persons-list/static/css/main.148d42ba.chunk.css",
+    "main.js": "/Persons-list/static/js/main.caf955ff.chunk.js",
+    "main.js.map": "/Persons-list/static/js/main.caf955ff.chunk.js.map",
+    "runtime~main.js": "/Persons-list/static/js/runtime~main.4858a2b5.js",
+    "runtime~main.js.map": "/Persons-list/static/js/runtime~main.4858a2b5.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/Persons-list/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.c56086cb.chunk.js": "/Persons-list/static/js/2.c56086cb.chunk.js",
+    "static/js/2.c56086cb.chunk.js.map": "/Persons-list/static/js/2.c56086cb.chunk.js.map",
+    "index.html": "/Persons-list/index.html",
+    "precache-manifest.bb505ef1842d105a1a4a0e70a42deb56.js": "/Persons-list/precache-manifest.bb505ef1842d105a1a4a0e70a42deb56.js",
+    "service-worker.js": "/Persons-list/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/Persons-list/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.148d42ba.chunk.css.map": "/Persons-list/static/css/main.148d42ba.chunk.css.map",
+    "static/media/App.css": "/Persons-list/static/media/Lintsec.df868691.woff"
+  }
+}
