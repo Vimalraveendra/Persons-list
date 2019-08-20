@@ -1,10 +1,12 @@
 import React from 'react';
 import Person from './Person';
+import './PersonsList.css';
 
 const PersonsList = ({personsArray}) =>{
 	  
 	return(
-         <div>
+        <React.Fragment>
+         <div className='grid-container'>
            {
              personsArray.map(user=>{
              	return <Person
@@ -22,7 +24,7 @@ const PersonsList = ({personsArray}) =>{
 
            }
           </div>
-
+       </React.Fragment>
 		)
 }
 
