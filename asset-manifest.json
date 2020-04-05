@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Persons-list/static/css/main.08ef60f2.chunk.css",
-    "main.js": "/Persons-list/static/js/main.27f0aec6.chunk.js",
-    "main.js.map": "/Persons-list/static/js/main.27f0aec6.chunk.js.map",
-    "runtime~main.js": "/Persons-list/static/js/runtime~main.4858a2b5.js",
-    "runtime~main.js.map": "/Persons-list/static/js/runtime~main.4858a2b5.js.map",
-    "static/css/2.31dafeb2.chunk.css": "/Persons-list/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.950a3a6d.chunk.js": "/Persons-list/static/js/2.950a3a6d.chunk.js",
-    "static/js/2.950a3a6d.chunk.js.map": "/Persons-list/static/js/2.950a3a6d.chunk.js.map",
+    "main.css": "/Persons-list/static/css/main.12e4af2c.chunk.css",
+    "main.js": "/Persons-list/static/js/main.48b8ab60.chunk.js",
+    "main.js.map": "/Persons-list/static/js/main.48b8ab60.chunk.js.map",
+    "runtime~main.js": "/Persons-list/static/js/runtime~main.21875988.js",
+    "runtime~main.js.map": "/Persons-list/static/js/runtime~main.21875988.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/Persons-list/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.4bf36dd7.chunk.js": "/Persons-list/static/js/2.4bf36dd7.chunk.js",
+    "static/js/2.4bf36dd7.chunk.js.map": "/Persons-list/static/js/2.4bf36dd7.chunk.js.map",
     "index.html": "/Persons-list/index.html",
-    "precache-manifest.9459c1d68923acd50d390810d2ca5883.js": "/Persons-list/precache-manifest.9459c1d68923acd50d390810d2ca5883.js",
+    "precache-manifest.1c18998d84d83d8aa393fe7b26a35eb4.js": "/Persons-list/precache-manifest.1c18998d84d83d8aa393fe7b26a35eb4.js",
     "service-worker.js": "/Persons-list/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "/Persons-list/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.08ef60f2.chunk.css.map": "/Persons-list/static/css/main.08ef60f2.chunk.css.map",
+    "static/css/2.3b6f1bda.chunk.css.map": "/Persons-list/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.12e4af2c.chunk.css.map": "/Persons-list/static/css/main.12e4af2c.chunk.css.map",
     "static/media/App.css": "/Persons-list/static/media/Lintsec.df868691.woff"
   }
 }
